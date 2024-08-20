@@ -12,9 +12,16 @@ editor: visual
 
 ## Part 2 of Step 3
 
+Assigning density of Petal Width to object y and determing it's class, type, and structure
 ```{r echo=FALSE}
 y <- density(iris$Petal.Width)
 class(y)
 typeof(y)
 str(y)
 ```
+
+Plotting y 
+```{r echo=FALSE}
+plot(y)
+```
+
