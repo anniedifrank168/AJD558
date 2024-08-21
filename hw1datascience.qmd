@@ -6,13 +6,14 @@ editor: visual
 
 ## Questions
 
-1.  Being able to interpret raw data to an audience by properly proccessing and analyzing it
-2.  Both work with data, but statisticians tend to work with smaller data than bigger data. Staisticians focus on modeling and bring data to a model and data scientists mainly focus on business problems and results and bring models to data.
-3.  I think I am a mix of both because I will both be using models and analysis processes already created, and also determine how best to model raw data.
+-   Being able to interpret raw data to an audience by properly proccessing and analyzing it
+-   Both work with data, but statisticians tend to work with smaller data than bigger data. Staisticians focus on modeling and bring data to a model and data scientists mainly focus on business problems and results and bring models to data.
+-   I think I am a mix of both because I will both be using models and analysis processes already created, and also determine how best to model raw data.
 
 ## Part 2 of Step 3
 
 Assigning density of Petal Width to object y and determing it's class, type, and structure
+
 ```{r echo=FALSE}
 y <- density(iris$Petal.Width)
 class(y)
@@ -20,8 +21,8 @@ typeof(y)
 str(y)
 ```
 
-Plotting y 
+Plotting y
+
 ```{r echo=FALSE}
 plot(y)
 ```
-
