@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "hw1datascience.html",
+    "href": "hw1datascience.html",
+    "title": "hw1datascience",
+    "section": "",
+    "text": "Being able to interpret raw data to an audience by properly proccessing and analyzing it\nBoth work with data, but statisticians tend to work with smaller data than bigger data. Staisticians focus on modeling and bring data to a model and data scientists mainly focus on business problems and results and bring models to data.\nI think I am a mix of both because I will both be using models and analysis processes already created, and also determine how best to model raw data."
+  },
+  {
+    "objectID": "hw1datascience.html#questions",
+    "href": "hw1datascience.html#questions",
+    "title": "hw1datascience",
+    "section": "",
+    "text": "Being able to interpret raw data to an audience by properly proccessing and analyzing it\nBoth work with data, but statisticians tend to work with smaller data than bigger data. Staisticians focus on modeling and bring data to a model and data scientists mainly focus on business problems and results and bring models to data.\nI think I am a mix of both because I will both be using models and analysis processes already created, and also determine how best to model raw data."
+  },
+  {
+    "objectID": "hw1datascience.html#part-2-of-step-3",
+    "href": "hw1datascience.html#part-2-of-step-3",
+    "title": "hw1datascience",
+    "section": "Part 2 of Step 3",
+    "text": "Part 2 of Step 3\nAssigning density of Petal Width to object y and determing it’s class, type, and structure\n\n\n[1] \"density\"\n\n\n[1] \"list\"\n\n\nList of 7\n $ x        : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y        : num [1:512] 0.00163 0.0018 0.00199 0.00219 0.00241 ...\n $ bw       : num 0.252\n $ n        : int 150\n $ call     : language density.default(x = iris$Petal.Width)\n $ data.name: chr \"iris$Petal.Width\"\n $ has.na   : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nPlotting y"
+  }
+]
